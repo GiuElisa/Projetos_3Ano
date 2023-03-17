@@ -1,0 +1,20 @@
+C:\Users\giuel\Área de Trabalho\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\bin\Debug\Projeto_1ºBim_ICG.exe.config
+C:\Users\giuel\Área de Trabalho\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\bin\Debug\Projeto_1ºBim_ICG.exe
+C:\Users\giuel\Área de Trabalho\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\bin\Debug\Projeto_1ºBim_ICG.pdb
+C:\Users\giuel\Área de Trabalho\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.csproj.AssemblyReference.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.Form1.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.Properties.Resources.resources
+C:\Users\giuel\Área de Trabalho\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.csproj.GenerateResource.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.csproj.CoreCompileInputs.cache
+C:\Users\giuel\Área de Trabalho\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.exe
+C:\Users\giuel\Área de Trabalho\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.pdb
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\bin\Debug\Projeto_1ºBim_ICG.exe.config
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\bin\Debug\Projeto_1ºBim_ICG.exe
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\bin\Debug\Projeto_1ºBim_ICG.pdb
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.csproj.AssemblyReference.cache
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.Form1.resources
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.Properties.Resources.resources
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.csproj.GenerateResource.cache
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.csproj.CoreCompileInputs.cache
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.exe
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_1ºBim_ICG\Projeto_1ºBim_ICG\obj\Debug\Projeto_1ºBim_ICG.pdb
