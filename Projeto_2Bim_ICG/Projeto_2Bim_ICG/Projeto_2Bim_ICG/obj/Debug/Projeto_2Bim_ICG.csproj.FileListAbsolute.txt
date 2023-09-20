@@ -1,0 +1,10 @@
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_2Bim_ICG\Projeto_2Bim_ICG\bin\Debug\Projeto_2Bim_ICG.exe.config
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_2Bim_ICG\Projeto_2Bim_ICG\bin\Debug\Projeto_2Bim_ICG.exe
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_2Bim_ICG\Projeto_2Bim_ICG\bin\Debug\Projeto_2Bim_ICG.pdb
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_2Bim_ICG\Projeto_2Bim_ICG\obj\Debug\Projeto_2Bim_ICG.csproj.AssemblyReference.cache
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_2Bim_ICG\Projeto_2Bim_ICG\obj\Debug\Projeto_2Bim_ICG.Form1.resources
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_2Bim_ICG\Projeto_2Bim_ICG\obj\Debug\Projeto_2Bim_ICG.Properties.Resources.resources
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_2Bim_ICG\Projeto_2Bim_ICG\obj\Debug\Projeto_2Bim_ICG.csproj.GenerateResource.cache
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_2Bim_ICG\Projeto_2Bim_ICG\obj\Debug\Projeto_2Bim_ICG.csproj.CoreCompileInputs.cache
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_2Bim_ICG\Projeto_2Bim_ICG\obj\Debug\Projeto_2Bim_ICG.exe
+C:\Giulia\Univap\3º ano\POO2_ICG\Projeto_2Bim_ICG\Projeto_2Bim_ICG\obj\Debug\Projeto_2Bim_ICG.pdb
